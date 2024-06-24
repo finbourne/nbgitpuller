@@ -1,3 +1,5 @@
+.. image:: ./resources/Finbourne_Logo_Teal.svg
+
 ===========
 nbgitpuller
 ===========
